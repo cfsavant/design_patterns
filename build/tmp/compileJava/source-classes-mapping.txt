@@ -1,0 +1,27 @@
+org/jsg/creational/factory/abstract/factory/TransportFactory.java
+ org.jsg.creational.factory.improved.factory.TransportFactory
+ org.jsg.creational.factory.improved.factory.TransportFactory$1
+org/jsg/creational/factory/staticfactorymethod/Admin.java
+ org.jsg.creational.factory.staticfactorymethod.Admin
+org/jsg/creational/factory/staticfactorymethod/IsEqualTest.java
+ org.jsg.creational.factory.staticfactorymethod.IsEqualTest
+org/jsg/creational/factory/factory/Truck.java
+ org.jsg.creational.factory.factory.Truck
+org/jsg/creational/factory/abstract/factory/TransportFactoryProducer.java
+ org.jsg.creational.factory.improved.factory.TransportFactoryProducer
+org/jsg/creational/factory/staticfactorymethod/User.java
+ org.jsg.creational.factory.staticfactorymethod.User
+org/jsg/creational/factory/abstract/factory/AbstractFactoryPatternDemo.java
+ org.jsg.creational.factory.improved.factory.AbstractFactoryPatternDemo
+org/jsg/creational/factory/before/refactor/Truck.java
+ org.jsg.creational.factory.before.refactor.Truck
+org/jsg/creational/factory/factory/TransportEnum.java
+ org.jsg.creational.factory.factory.TransportEnum
+org/jsg/creational/factory/before/refactor/LogisticsApp.java
+ org.jsg.creational.factory.before.refactor.LogisticsApp
+org/jsg/creational/factory/factory/Transport.java
+ org.jsg.creational.factory.factory.Transport
+org/jsg/creational/factory/before/refactor/Shipment.java
+ org.jsg.creational.factory.before.refactor.Shipment
+org/jsg/creational/factory/abstract/factory/AbstractTransportFactory.java
+ org.jsg.creational.factory.improved.factory.AbstractTransportFactory
